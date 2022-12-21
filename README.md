@@ -24,5 +24,15 @@
 
 - At the end we have set the properties on **p tag** inside li of nav and then on hover of tabs we have set the color.
 
+**## JavaScript Part**
+
+- On the click of every tab of Mobile navigation we have applied show and hide properties. When we click on any tab it shows an different images in every tab.
+
+- We have used **querySelector** to select all the images using **class content**. Also we have selected the **ul list** inside the **nav** using querySelector.
+
+- I have created two functions **hideAllItems** to hide all the images and ul list.
+
+- Then i have created one more function to show only clicked part of Mobile tab navigation and other everything will be hide.
+
 
 
